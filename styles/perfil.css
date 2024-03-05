@@ -2,8 +2,8 @@ body{
     font-family: ns-serif;
     margin:50px; 
     padding: 20px;
-    background-image: url(imagenes/fondo_web.jpg);
-    color: white;
+    background-image: url(../imagenes/fondo_web.jpg);
+    color: #2c3e50;
     font-size: 25px;
     
 }
